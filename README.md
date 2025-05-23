@@ -24,7 +24,7 @@ Welcome to the repository, which contains laboratory works on the subject of Num
 𝑑𝑓(𝑥)/𝑑𝑥 = (𝑓(𝑥 + ℎ) − 𝑓(𝑥 − ℎ))/2ℎ,<br />
 𝑑𝑓(𝑥)/𝑑𝑥 =(−𝑓(𝑥 + 2ℎ) + 8𝑓(𝑥 + ℎ) − 8𝑓(𝑥 − ℎ) + 𝑓(𝑥 − 2ℎ))/12ℎ<br />
 визначає для кроків h = {1, 10–1, 10–2 …} похідну, а також, яка на основі формул складеної квадратури<br />
-𝑣                               𝑁<br />
+𝑣&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𝑁<br />
 ∫𝑓(𝑥)𝑑𝑥 = ((𝑓(𝑢) − 𝑓(𝑣))*ℎ)/2 +∑𝑓(𝑢 + 𝑖ℎ)ℎ,<br />
 𝑢                              𝑖=1<br />
 𝑣                             𝑁/2<br />
